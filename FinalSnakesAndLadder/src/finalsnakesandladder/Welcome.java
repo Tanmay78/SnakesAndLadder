@@ -16,7 +16,7 @@ import finalsnakesandladder.Number;
 public class Welcome extends javax.swing.JFrame {
 
     /**
-     * Creates new form Welcome
+     * Creates new form Welcome to the game
      */
     public Welcome() {
         initComponents();
